@@ -1,0 +1,65 @@
+识别地图中的所有角色单位。
+
+对于每个角色：
+
+找到其所在 Tile。
+
+分析周围8个相邻Tile。
+
+
+方向定义：
+
+        N
+
+   NW   ↑   NE
+
+
+W  ← 角色 → E
+
+
+   SW   ↓   SE
+
+
+        S
+
+
+记录：
+
+角色所在Tile：
+
+unit_position
+
+
+相邻方向：
+
+{
+north:
+Tile_x,
+
+south:
+Tile_x,
+
+east:
+Tile_x,
+
+west:
+Tile_x,
+
+north_east:
+Tile_x,
+
+north_west:
+Tile_x,
+
+south_east:
+Tile_x,
+
+south_west:
+Tile_x
+}
+
+
+如果方向不存在：
+
+null
+

@@ -1,0 +1,1 @@
+请调用 superpowers + SDD 技能，根据PRD.md，生成可直接开发的完整 SDD 系统设计文档， SDD文档要求： 1. 后端所有功能使用 TDD 测试驱动开发，先写测试再写实现。 2. 前端所有功能流程使用 BDD 行为驱动开发，使用 Given-When-Then。 3. 每个功能模块必须标注：TDD 或 BDD。 4. 自动生成对应的测试用例。 5. 保持文档可直接用于开发。 SDD 系统设计文档包含： 1. 前后端接口清单2. 页面结构 使用superpowers跑整个流程，要求： 1.brainstorming 后自检 2.writing-plans 后自检 3.创建 worktree 装依赖 4.派代理 TDD + 双重审查 5.遇 bug 用 debugging 6.审查后自检清单

@@ -1,0 +1,5 @@
+Base 3D model created with Meshy AI (https://www.meshy.ai), licensed under CC BY 4.0.
+
+Modified by [你的名字 / 工作室名]: changes include retopology, texture edits, and additional detail work.
+
+The modified work is distributed under the same CC BY 4.0 license.

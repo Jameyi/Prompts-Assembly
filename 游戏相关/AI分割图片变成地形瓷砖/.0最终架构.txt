@@ -1,0 +1,28 @@
+图片
+ |
+ |
+ ↓
+
+Agent 1
+地图切割器
+(Map Splitter)
+
+↓
+
+Agent 2
+地形识别器
+(Terrain Classifier)
+
+↓
+
+Agent 3
+游戏规则转换器
+(Game Rule Generator)
+
+↓
+
+JSON Tile Map
+
+↓
+
+Unity / Unreal / Godot

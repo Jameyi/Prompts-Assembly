@@ -1,0 +1,12 @@
+BV1CabD6sE9o
+
+https://github.com/guiguiyan930-source/prototype-interaction-game-ui
+https://github.com/guiguiyan930-source/game-ui-component-breakdown
+
+
+使用方法：
+打开GPT
+↓
+选中项目 上传 游戏UI的Skill 文件
+↓
+直接开启对话

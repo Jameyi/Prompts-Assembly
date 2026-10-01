@@ -1,0 +1,51 @@
+操作：上传图片
+
+提示词：
+Reimagine this illustration as a high-end, professional-grade 3D render. Preserve the original composition and core conceptual intent — do not simplify, over-explain, or normalize the scene. The final image should read as a high-quality surreal 3D artwork at professional CGI studio standards.
+
+3D Style & Quality
+Ultra-detailed 3D render
+Physically Based Rendering (PBR)
+Clean, realistic geometry
+High-polygon detail on key areas
+No low-poly or stylized simplification
+
+Anatomical Correction
+Auto-detect and fix visible figure errors (extra fingers, wrong limb count, proportion distortion, etc.)
+Ensure anatomically correct structure, limb count, and proportions with no visual artifacts
+Corrections must integrate seamlessly with the character's style and scene — original creative intent must remain intact
+
+Lighting
+Cinematic, high-quality 3D lighting setup
+Controlled contrast with layered highlights and shadows
+Soft directional light to sculpt volume and form
+Subtle rim/edge lighting to enhance object separation
+Realistic global illumination with light bouncing
+No flat or uniform lighting
+
+Materials & Textures
+Realistic surface materials with tactile depth and variation
+Detailed textures with roughness, glossiness, and micro-detail
+Naturalistic translucency, reflection, and refraction
+Materials respond to light according to physical laws
+No flat shaders or plastic-looking surfaces
+
+Surreal Elements
+Retain surreal quality for abstract or physically impossible elements
+Floating elements remain suspended — no visible supports
+Surreal forms must feel solid and volumetric
+Do not rationalize or explain the surreal logic
+
+Depth & Render Quality
+Strong spatial depth and layered recession
+Soft, realistic depth of field where appropriate
+Clean shadows with natural transitions
+High dynamic range lighting
+Sharp, textured final render
+
+De-illustration
+No flat color fills
+No vector outlines
+No hand-drawn or graphic textures
+
+Final output should read as a high-quality surreal 3D render

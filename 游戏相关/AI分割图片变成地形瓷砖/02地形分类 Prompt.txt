@@ -1,0 +1,38 @@
+对每个 Tile 进行地形分类。
+
+允许的 Terrain 类型：
+
+{
+"plain": 平原,
+"forest": 森林,
+"mountain": 山地,
+"hill": 丘陵,
+"river": 河流,
+"lake": 湖泊,
+"ocean": 海洋,
+"desert": 沙漠,
+"swamp": 沼泽,
+"snow": 雪地,
+"road": 道路,
+"city": 城市,
+"village": 村庄,
+"unknown": 未知
+}
+
+
+判断规则：
+
+如果一个Tile包含多个地形：
+
+选择占面积最大的地形作为 primary terrain。
+
+同时记录：
+
+secondary_features
+
+例如：
+
+{
+terrain:"plain",
+secondary_features:["river"]
+}
